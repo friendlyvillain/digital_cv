@@ -1,0 +1,22 @@
+_site
+.sass-cache
+.DS_Store
+_vendor
+
+# Bundler cache
+.bundle
+vendor
+Gemfile.lock
+
+# Jekyll cache
+.jekyll-cache
+
+# RubyGems
+*.gem
+
+# IDE configurations
+.idea
+.vscode
+
+## MacOS
+*.DS_Store
