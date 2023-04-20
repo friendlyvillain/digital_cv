@@ -1,13 +1,20 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: M.S. in Electrical Engineering 
+  uni: | 
+    Korea Advanced Institute of Science and Technology (KAIST), School of Electrical Engineering, <br/>
+    Daejeon, Republic of Korea
+  year: 2017.08 &mdash; 2019.09
+  awards:
+    - award: "Master's Thesis: Performance analysis of stable matching based resource unit scheduling and energy-efficient power allocation in dense WLAN"
+    - award: "Advisor: Dong-ho Cho, School of Electrical Engineering, KAIST"
+  summary: #
+
+- degree: B.S. in Computer & Communication Engineering 
+  uni: |
+    Korea University, College of Information and Communication (College of Informatics), <br/> 
+    Seoul, Republic of Korea
+  year: 2011.03 &mdash; 2015.02
   awards:
     - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+  summary: #
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards

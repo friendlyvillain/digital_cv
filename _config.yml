@@ -1,5 +1,5 @@
 # Site settings
-title: "Juhyoung Sung"
+title: "Juhyoung Sung's CV"
 description: "CV using Jekyll and GitHub Pages sites"
 
 # Build settings
@@ -10,8 +10,8 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Juhyoung Sung"
-resume_title:                   "Senior Researcher at Korea Electronics Technology Institute (KETI)"
+resume_name:                    "Juhyoung Sung's CV"
+resume_title:                   "Senior Researcher at Korea Electronics Technology Institute"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "zero02505@gmail.com"
