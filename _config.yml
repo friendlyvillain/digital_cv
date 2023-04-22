@@ -1,4 +1,6 @@
 # Site settings
+future: true
+
 title: "Juhyoung Sung's CV"
 description: "CV using Jekyll and GitHub Pages sites"
 
