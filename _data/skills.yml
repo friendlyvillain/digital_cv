@@ -1,12 +1,19 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# Programming Skills
+- skill: Programming Skills
+  description: |
+    <li> Python (PyTorch) </li>
+    <li> C++ </li>
+    <li> Matlab/R </li>  
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: SW/Tools
+  description: |
+    <li> Docker </li>
+    <li> Altair EDEM </li>
+    <li> Quadriga </li>
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Language
+  description: |
+    <li> Korean (Native) </li>
+    <li> English (Academic) </li>
+    <li> Japanese (Elementary) </li>

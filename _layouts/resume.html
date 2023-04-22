@@ -60,14 +60,18 @@
         <div class="resume-item" itemscope itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
           <h3 class="resume-item-title" itemprop="description">{{ education.year }}</h3>
           <h3 class="resume-item-title" itemprop="description">{{ education.degree }}</h3>
-          <!-- <h3 class="resume-item-details group" itemprop="description">{{ education.degree }} &bull; {{ education.year }}</h3> -->
-          <!-- <h4 class="resume-item-title" itemprop="name">{{ education.uni }}</h4> -->
-          <h4 class="resume-item-details group" itemprop="name">{{ education.uni }}</h4>
+          <h4 class="resume-item-details group" itemprop="name">
+            {{ education.uni }}, 
+            {% if education.url %}
+              <a href="{{ education.url }}" target="_blank">{{ education.major }}</a>
+            {% else %}{{ education.major }}{% endif %}, 
+            {{ education.loc}}
+          </h4>
           <h5 class="resume-item-details award-title" itemprop="description">{{ education.award }}</h5>
           <p class="resume-item-copy" itemprop="description">
             <ul class="resume-item-list">
               {% for award in education.awards %}
-              <li>{{ award.award }}</li>
+                <li>{{ award.award }}</li>
               {% endfor %}
             </ul>
           <p class="resume-item-copy">{{ education.summary }}</p>
@@ -89,7 +93,11 @@
         {% for job in site.data.experience %}
         <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
           <h3 class="resume-item-title" itemprop="name">{{job.duration}}</h3>
-          <h3 class="resume-item-title" itemprop="name">{% if job.url %}<a href="{{ job.url }}">{{ job.company }}</a>{% else %}{{ job.company }}{% endif %}</h3>
+          <h3 class="resume-item-title" itemprop="name">
+            {% if job.url %}
+              <a href="{{ job.url }}" target="_blank">{{ job.company }}</a>
+            {% else %}{{ job.company }}{% endif %}
+          </h3>
           <h4 class="resume-item-details" itemprop="name">{{ job.details }}</h4>
           <h5 class="resume-item-details" itemprop="description">{{ job.position }}</h5>
           <p class="resume-item-copy">{{ job.summary }}</p>
@@ -151,7 +159,7 @@
         </header>
 
         {% for honor in site.data.honors %}
-        <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        <div class="resume-item">
           <h3 class="resume-item-title" itemprop="name">{{honor.year}}</h3>
           <p class="resume-item-copy">{{ honor.award }}</p>
         </div><!-- end of resume-item -->
@@ -174,7 +182,8 @@
           <ul class="resume-item-list">
             {% for certificate in site.data.certificates %}
               <li>
-                {% if certificate.url %}<a href="{{ certificate.url }}">{{ certificate.description }}</a>
+                {% if certificate.url %}
+                  <a href="{{ certificate.url }}" target="_blank">{{ certificate.description }}</a>
                 {% else %}{{ certificate.description }}{% endif %}
               </li>
             {% endfor %}
@@ -214,17 +223,17 @@
         <header class="section-header">
           <h2>Skills</h2>
         </header>
+
         {% for skill in site.data.skills %}
         <div class="resume-item">
-          <h4 class="resume-item-details">{{ skill.skill }}</h4>
+          <h3 class="resume-item-title" itemprop="name">{{skill.skill}}</h3>
           <p class="resume-item-copy">{{ skill.description }}</p>
-        </div>
+        </div><!-- end of resume-item -->
         {% endfor %}
 
       </section>
       <!-- end Skills -->
       {% endif %}
-
 
 
       {% if site.resume_section_interests %}
@@ -284,8 +293,10 @@
       {% endif %}
 
       <footer class="page-footer">
+        <!--
         <p class="footer-line">Made by <a href="http://twitter.com/jglovier">@jglovier</a>. Fork me on <a href="https://github.com/jglovier/resume-template">GitHub</a>.</p>
-        <p class="footer-line">If this is your live resume, you can modify or remove this part. ;-)</p>
+        -->
+        <p class="footer-line">Thank you for visiting this page!</p>
       </footer>
 
     </div>
