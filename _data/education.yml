@@ -1,20 +1,22 @@
 # Degree
+# M.S.
 - degree: M.S. in Electrical Engineering 
   uni: | 
     Korea Advanced Institute of Science and Technology (KAIST), School of Electrical Engineering, <br/>
     Daejeon, Republic of Korea
-  year: 2017.08 &mdash; 2019.09
+  year: Aug. 2017 &mdash; Sep. 2019
   awards:
     - award: "Master's Thesis: Performance analysis of stable matching based resource unit scheduling and energy-efficient power allocation in dense WLAN"
     - award: "Advisor: Dong-ho Cho, School of Electrical Engineering, KAIST"
   summary: #
 
-- degree: B.S. in Computer & Communication Engineering 
+# B.S.
+- degree: B.S. in Computer & Communication Engineering (<i>Valedictorian</i>)
   uni: |
     Korea University, College of Information and Communication (College of Informatics), <br/> 
     Seoul, Republic of Korea
-  year: 2011.03 &mdash; 2015.02
+  year: Mar. 2011 &mdash; Feb. 2015
   awards:
-    - award: Summa Cumme Laude graduate
+    # - award: Summa Cumme Laude graduate
   summary: #
 
