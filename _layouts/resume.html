@@ -99,7 +99,7 @@
             {% else %}{{ job.company }}{% endif %}
           </h3>
           <h4 class="resume-item-details" itemprop="name">{{ job.details }}</h4>
-          <h5 class="resume-item-details" itemprop="description">{{ job.position }}</h5>
+          <h5 class="resume-item-details" itemprop="description">Position: {{ job.position }}</h5>
           <p class="resume-item-copy">{{ job.summary }}</p>
         </div><!-- end of resume-item -->
         {% endfor %}
