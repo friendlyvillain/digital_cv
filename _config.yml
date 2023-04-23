@@ -1,7 +1,7 @@
 # Site settings
 future: true
 
-title: "Juhyoung Sung's CV"
+title: "CV Page"
 description: "CV using Jekyll and GitHub Pages sites"
 
 # Build settings
@@ -53,13 +53,13 @@ resume_section_links:           false
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/friendlyvillain/digital_cv"
+  # resume_github_url:            "https://github.com/friendlyvillain/"
   # resume_twitter_url:           "http://twitter.com/jglovier"
   # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
   # resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "https://friendlyvillain.github.io"
+  resume_website_url:           "https://github.com/friendlyvillain/digital_cv"
   # resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 
