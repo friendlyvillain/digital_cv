@@ -1,5 +1,6 @@
 # Site settings
 future: true
+timezone: Asia/Seoul
 
 title: "CV Page"
 description: "CV using Jekyll and GitHub Pages sites"
