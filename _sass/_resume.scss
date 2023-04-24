@@ -111,14 +111,14 @@
 
 .contact-button {
   @include border-radius(3px);
-  background-color: #efefef;
+  background-color: #afafaf;
   text-decoration: none;
   text-align: center;
   display: block;
   margin: 1.5rem auto;
-  width: 220px;
+  width: 265px;
   font-size: 1.375rem;
-  @include sans_light;
+  @include sans;
   color: #333;
   line-height: 55px;
   @include transition(all .2s ease);
