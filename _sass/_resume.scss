@@ -154,7 +154,7 @@
     &.award-title {
       font-size: 0.9rem;
     }
-    //text-align:justify
+    //text-align:justify;
   }
 
   .resume-item-title,
@@ -171,7 +171,8 @@
         color: #9c9c9c;
       }
     }
-    text-align:justify
+    line-height: 1.5;
+    text-align:justify;
   }
 
   .resume-item-copy { margin: .75rem 0 0; }
