@@ -1,17 +1,28 @@
 - description: |
+    <strong>J. Sung</strong>, S. Cho, W. Jeon, Y. Kim, K. Kwon, D. Jeong, 
+    "Recirculating Aquaculture System Design and Water Treatment Analysis based on CFD Simulation," 
+    <i>KSII Trans. Internet Inf. Syst.</i>, vol. 17, no. 11, pp. 3083-3098, Nov. 2023.
+
+- description: |
+    <strong>J. Sung</strong>, W. Jeon, S. Cho and K. Kwon, 
+    "A novel conditional handover scheme based on deep reinforcement learning for mmWave systems," 
+    <i>in Proc. 2023 IEEE 34th Int. Symp. Pers. Indoor Mob. Radio Commun. (PIMRC)</i>, 
+    2023, pp. 1-7, doi: 10.1109/PIMRC56721.2023.10293873.
+
+- description: |
     <strong>J. Sung</strong>, S. Cho, D. Jeong, J. Kim, J. Park, K. Kwon, and Y. Ko, 
     "TGC-based fish growth estimation model using gaussian process regression approach," 
     <i>J. Internet Comput. Serv.</i>, vol. 24, no. 1, pp. 61-69, Feb. 2023.
 
-- description: |
-    <strong>J. Sung</strong>, C. Han, and B. Song, 
-    "Combined module file structure consisting of metadata for efficient vessel design," 
-    <i>in Proc. 14th Internet Conference on Internet (ICONI)</i>, 2022, pp. 105-106.
+# - description: |
+#     <strong>J. Sung</strong>, C. Han, and B. Song, 
+#     "Combined module file structure consisting of metadata for efficient vessel design," 
+#     <i>in Proc. 14th Internet Conference on Internet (ICONI)</i>, 2022, pp. 105-106.
 
-- description: |
-    <strong>J. Sung</strong>, S. Cho, W. Jeon, Y. Kim, K. Kwon, and D. Jeong, 
-    "CFD simulation based analysis for recirculating aquaculture system design,"
-    <i>in Proc. 14th Internet Conference on Internet (ICONI)</i>, 2022, pp. 75-77.
+# - description: |
+#     <strong>J. Sung</strong>, S. Cho, W. Jeon, Y. Kim, K. Kwon, and D. Jeong, 
+#     "CFD simulation based analysis for recirculating aquaculture system design,"
+#     <i>in Proc. 14th Internet Conference on Internet (ICONI)</i>, 2022, pp. 75-77.
 
 - description: |
     <strong>J. Sung</strong>, S. Cho, W. Jeon, K. Park, and K. Kwon, 
@@ -23,16 +34,16 @@
     "MIMO-aided efficient communication resource scheduling scheme in VDES," 
     <i>KSII Trans. Internet Inf. Syst.</i>, vol. 16, no. 8, pp. 2736-2750, Aug. 2022.
 
-- description: |
-    <strong>J. Sung</strong>, S. Cho, W. Jeon, Y. Kim, and K. Kwon, 
-    "Maritime communication traffic based adaptive beam hopping method in DVB-S2X," 
-    <i>in Proc. 17th Asia Pacific International Conference on Information Science and Technology (APIC-IST)</i>,
-    2022, pp. 3-5.
+# - description: |
+#     <strong>J. Sung</strong>, S. Cho, W. Jeon, Y. Kim, and K. Kwon, 
+#     "Maritime communication traffic based adaptive beam hopping method in DVB-S2X," 
+#     <i>in Proc. 17th Asia Pacific International Conference on Information Science and Technology (APIC-IST)</i>,
+#     2022, pp. 3-5.
 
-- description: |
-    <strong>J. Sung</strong>, S. Cho, W. Jeon, K. Park, and K. Kwon, 
-    "Efficient communication resource management of aids to navigation for reliable operation in VDES," 
-    <i>in Proc. 13th Internet Conference on Internet (ICONI)</i>, 2021, pp. 134-136.
+# - description: |
+#     <strong>J. Sung</strong>, S. Cho, W. Jeon, K. Park, and K. Kwon, 
+#     "Efficient communication resource management of aids to navigation for reliable operation in VDES," 
+#     <i>in Proc. 13th Internet Conference on Internet (ICONI)</i>, 2021, pp. 134-136.
 
 - description: |
     <strong>J, Sung</strong>, S. Cho, W. Jeon, Y. Kim, and K. Kwon, 
