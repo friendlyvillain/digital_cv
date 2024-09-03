@@ -1,4 +1,9 @@
 - description: |
+    <strong>J. Sung</strong>, K. Kwon, K. Park, and B. Song, 
+    "Multi-Variate Tabular Data Processing and Visualization Scheme for Machine Learning based Analysis: A Case Study using Titanic Dataset," 
+    <i>J. Internet Comput. Serv.</i>, vol. 25, no. 4, pp. 121-130, Aug. 2024.
+
+- description: |
     <strong>J. Sung</strong>, K. Kwon, and B. Song, 
     "Design of a recommendation system for improving deep neural network performance," 
     <i>J. Internet Comput. Serv.</i>, vol. 25, no. 1, pp. 49-56, Feb. 2024.
@@ -9,9 +14,9 @@
     <i>KSII Trans. Internet Inf. Syst.</i>, vol. 17, no. 11, pp. 3083-3098, Nov. 2023.
 
 - description: |
-    <strong>J. Sung</strong>, W. Jeon, S. Cho and K. Kwon, 
+    <strong>J. Sung</strong>, W. Jeon, S. Cho, and K. Kwon, 
     "A novel conditional handover scheme based on deep reinforcement learning for mmWave systems," 
-    <i>in Proc. 2023 IEEE 34th Int. Symp. Pers. Indoor Mob. Radio Commun. (PIMRC)</i>, 
+    in <i>Proc. 2023 IEEE 34th Int. Symp. Pers. Indoor Mob. Radio Commun. (PIMRC)</i>, 
     2023, pp. 1-7, doi: 10.1109/PIMRC56721.2023.10293873.
 
 - description: |
@@ -32,7 +37,7 @@
 - description: |
     <strong>J. Sung</strong>, S. Cho, W. Jeon, K. Park, and K. Kwon, 
     "Performance analysis of AIS data collision avoidance based on the correlation calculation," 
-    <i>in Proc. Korean Institute of Communications and Information Sciences (KICS) Fall Conference</i>, 2022.
+    in <i>Proc. Korean Institute of Communications and Information Sciences (KICS) Fall Conference</i>, 2022.
 
 - description: |
     <strong>J. Sung</strong>, S. Cho, W. Jeon, K. Park, S. Ahn, and K. Kwon, 
@@ -53,17 +58,17 @@
 - description: |
     <strong>J, Sung</strong>, S. Cho, W. Jeon, Y. Kim, and K. Kwon, 
     "Integrated system model of 5G and DVB-S2X for coverage extension of maritime communications," 
-    <i>in Proc. 44th Korean Society for Internet Information (KSII)</i>, vol. 21, no.2, 2021, pp. 199-200.
+    in <i>Proc. 44th Korean Society for Internet Information (KSII)</i>, vol. 21, no.2, 2021, pp. 199-200.
 
 - description: |
     <strong>J. Sung</strong>, and D. Cho, 
     "Efficient resource scheduling method based on stable matching in IEEE 802.11ax environments,"
-    <i>in Proc. 29th Joint Conference on Communications and Information (JCCI)</i>, 2019.
+    in <in>Proc. 29th Joint Conference on Communications and Information (JCCI)</i>, 2019, pp. 1-2.
 
 - description: |
     <strong>J. Sung</strong>, and D. Cho, 
     "Optimal beamforming method for moving terminals," 
-    <i>in Proc. Korean Institute of Communications and Information Sciences (KICS) Summer Conference</i>, 2018, pp. 835-836.
+    in <in>Proc. Korean Institute of Communications and Information Sciences (KICS) Summer Conference</i>, 2018, pp. 835-836.
 
 
 
