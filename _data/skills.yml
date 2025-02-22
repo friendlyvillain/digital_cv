@@ -2,14 +2,14 @@
 # Programming Skills
 - skill: Programming Skills
   description: |
-    <li> Python (PyTorch) </li>
+    <li> Python </li>
     <li> C++ </li>
     <li> Matlab/R </li>  
 
 - skill: SW/Tools
   description: |
     <li> Docker </li>
-    <li> Altair EDEM </li>
+    <li> PyTorch, Tensorflow, Pandas </li>
     <li> Quadriga </li>
 
 - skill: Language
