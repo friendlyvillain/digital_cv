@@ -10,6 +10,7 @@
   description: |
     <li> Docker </li>
     <li> PyTorch, Tensorflow, Pandas </li>
+    <li> CVX toolbox </li>
     <li> Quadriga </li>
 
 - skill: Language
