@@ -1,8 +1,39 @@
 - description: |
+    <strong>J. Sung</strong>, K. Park, K. Kwon, and B. Song, 
+    "Tabular data visualization and machine learning based classification for registered Korean fishing vessels," 
+    <i>KSII Trans. Internet Inf. Syst.</i>, vol. 19, no. 9, pp. 3184-3199, Sep. 2025. <br/>
+    DOI: <a href="https://dx.doi.org/10.3837/tiis.2025.09.019" target="_blank">10.3837/tiis.2025.09.019</a>
+
+
+- description: |
+    <strong>J. Sung</strong> and K. Park, 
+    "Performance analysis and improvement of AI model for radar signal modulation type classification 
+    based on data preprocessing," 
+    <i>J. Internet Comput. Serv.</i>, vol. 26, no. 4, pp. 31-39, Aug. 2025. <br/>
+    DOI: <a href="https://doi.org/10.7472/jksii.2025.26.4.31" target="_blank">10.7472/jksii.2024.26.4.31</a>
+
+
+- description: |
+    <strong>J. Sung</strong>, W. Jeon, S. Cho, K. Kwon, and K. Park, 
+    "Deep learning-based precoding for partially-connected hybrid beamforming systems," 
+    in <i>Proc. IEEE 16th Int. Conf. Ubiquitous Future Netw. (ICUFN)</i>, 2025, pp. 689-693. <br/>
+    DOI: <a href="https://doi.org/10.1109/ICUFN65838.2025.11169932" target="_blank">10.1109/ICUFN65838.2025.11169932</a>
+
+
+- description: |
+    <strong>J. Sung</strong> and K. Park, 
+    "Performance comparison of time-series radar signal classification according 
+    to pooling methods applied to output of recurrent neural network,"
+    in <i>Proc. 2025 Korean Institute of Communications and Information Sciences (KICS) Summer Conference</i>, 
+    2025, pp. 529-530.
+
+
+- description: |
     <strong>J. Sung</strong> and K. Park, 
     "Design of artificial intelligence model and performance analysis for radar signal modulation method identification," 
     in <i>Proc. 2024 Korean Institute of Communications and Information Sciences (KICS) Fall Conference</i>, 
     2024, pp. 1036-1037.
+
 
 - description: |
     <strong>J. Sung</strong>, W. Jeon, S. Cho, K. Kwon, and K. Park, 
@@ -19,11 +50,13 @@
     <i>J. Internet Comput. Serv.</i>, vol. 25, no. 4, pp. 121-130, Aug. 2024. <br/>
     DOI: <a href="https://dx.doi.org/10.7472/jksii.2024.25.4.121" target="_blank">10.7472/jksii.2024.25.4.121</a>
 
+
 - description: |
     <strong>J. Sung</strong>, K. Kwon, and B. Song, 
     "Design of a recommendation system for improving deep neural network performance," 
     <i>J. Internet Comput. Serv.</i>, vol. 25, no. 1, pp. 49-56, Feb. 2024. <br/>
     DOI: <a href="https://dx.doi.org/10.7472/jksii.2024.25.1.49" target="_blank">10.7472/jksii.2024.25.1.49</a>
+
 
 - description: |
     <strong>J. Sung</strong>, S. Cho, W. Jeon, Y. Kim, K. Kwon, and D. Jeong, 
@@ -31,12 +64,14 @@
     <i>KSII Trans. Internet Inf. Syst.</i>, vol. 17, no. 11, pp. 3083-3098, Nov. 2023. <br/>
     DOI: <a href="https://dx.doi.org/10.3837/tiis.2023.11.010" target="_blank">10.3837/tiis.2023.11.010</a>
 
+
 - description: |
     <strong>J. Sung</strong>, W. Jeon, S. Cho, and K. Kwon, 
     "A novel conditional handover scheme based on deep reinforcement learning for mmWave systems," 
     in <i>Proc. 2023 IEEE 34th Int. Symp. Pers. Indoor Mob. Radio Commun. (PIMRC)</i>, 
     2023, pp. 1-7. <br/>
     DOI: <a href="https://dx.doi.org/10.1109/PIMRC56721.2023.10293873" target="_blank">10.1109/PIMRC56721.2023.10293873</a>.
+
 
 - description: |
     <strong>J. Sung</strong>, S. Cho, D. Jeong, J. Kim, J. Park, K. Kwon, and Y. Ko, 
